@@ -41,7 +41,8 @@ jobs:
           path: example-app.tar.gz
   deploy:
     # Only deploy if the code was commited to master, not for PRs
-    if: github.ref == 'refs/heads/master'
+    # if: github.ref == 'refs/heads/master'
+    needs: build-react
     # Note no container is specified, this job will run in the shell
     runs-on: [self-hosted, deploy]
     env:
