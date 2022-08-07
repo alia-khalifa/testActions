@@ -16,9 +16,9 @@ jobs:
   # Also name the step (will be shown in GitHub's UI; optional)
     - name: Run Prettier
       run: |
-      cd example-app
-      npm install
-      npx prettier --check .
+        cd example-app
+        npm install
+        npx prettier --check .
   build-react:
     needs: test-react
     runs-on: [self-hosted, docker]

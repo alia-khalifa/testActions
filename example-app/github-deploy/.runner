@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 5,
+  "agentName": "deploy",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/AGEY5UrMtvtb6e96wqWBe7779R8HaAuPbYojzfgzaqjGlsqYXm",
+  "gitHubUrl": "https://github.com/alia-khalifa/testActions",
+  "workFolder": "_work"
+}

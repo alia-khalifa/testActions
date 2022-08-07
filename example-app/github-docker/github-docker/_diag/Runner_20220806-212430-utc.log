@@ -1,0 +1,396 @@
+[2022-08-06 21:24:30Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO HostContext] Well known config file 'Credentials': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO HostContext] Well known config file 'Runner': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.runner'
+[2022-08-06 21:24:30Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2022-08-06 21:24:30Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19043.
+[2022-08-06 21:24:30Z INFO Listener] Version: 2.294.0
+[2022-08-06 21:24:30Z INFO Listener] Commit: 709bd6113d2fca3a89a0fef11913ce4efd7b8cc5
+[2022-08-06 21:24:30Z INFO Listener] Culture: en-US
+[2022-08-06 21:24:30Z INFO Listener] UI Culture: en-US
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO Listener] Validating directory permissions for: 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO CommandLineParser] Parse
+[2022-08-06 21:24:30Z INFO CommandLineParser] Parsing 3 args
+[2022-08-06 21:24:30Z INFO CommandLineParser] parsing argument
+[2022-08-06 21:24:30Z INFO CommandLineParser] HasArgs: False
+[2022-08-06 21:24:30Z INFO CommandLineParser] Adding Command: run
+[2022-08-06 21:24:30Z INFO CommandLineParser] parsing argument
+[2022-08-06 21:24:30Z INFO CommandLineParser] HasArgs: True
+[2022-08-06 21:24:30Z INFO CommandLineParser] arg: startuptype
+[2022-08-06 21:24:30Z INFO CommandLineParser] parsing argument
+[2022-08-06 21:24:30Z INFO CommandLineParser] HasArgs: True
+[2022-08-06 21:24:30Z INFO CommandLineParser] Adding option 'startuptype': 'service'
+[2022-08-06 21:24:30Z INFO Listener] Arguments parsed
+[2022-08-06 21:24:30Z INFO Runner] ExecuteCommand
+[2022-08-06 21:24:30Z INFO ConfigurationStore] currentAssemblyLocation: C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin\Runner.Listener.dll
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO ConfigurationStore] binPath: C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO ConfigurationStore] RootFolder: C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO HostContext] Well known config file 'Runner': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.runner'
+[2022-08-06 21:24:30Z INFO ConfigurationStore] ConfigFilePath: C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.runner
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO HostContext] Well known config file 'Credentials': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials'
+[2022-08-06 21:24:30Z INFO ConfigurationStore] CredFilePath: C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_migrated'
+[2022-08-06 21:24:30Z INFO ConfigurationStore] MigratedCredFilePath: C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_migrated
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO HostContext] Well known config file 'Service': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.service'
+[2022-08-06 21:24:30Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.service
+[2022-08-06 21:24:30Z INFO CommandSettings] Flag 'help': 'False'
+[2022-08-06 21:24:30Z INFO CommandSettings] Flag 'version': 'False'
+[2022-08-06 21:24:30Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-08-06 21:24:30Z INFO CommandSettings] Flag 'check': 'False'
+[2022-08-06 21:24:30Z INFO CommandSettings] Command 'configure': 'False'
+[2022-08-06 21:24:30Z INFO CommandSettings] Command 'remove': 'False'
+[2022-08-06 21:24:30Z INFO CommandSettings] Command 'warmup': 'False'
+[2022-08-06 21:24:30Z INFO ConfigurationManager] LoadSettings
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsConfigured()
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsConfigured: True
+[2022-08-06 21:24:30Z INFO ConfigurationManager] Is configured: True
+[2022-08-06 21:24:30Z INFO ConfigurationStore] Read setting file: 295 chars
+[2022-08-06 21:24:30Z INFO ConfigurationManager] Settings Loaded
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsServiceConfigured()
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsServiceConfigured: True
+[2022-08-06 21:24:30Z INFO CommandSettings] Command 'run': 'True'
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsConfigured()
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsConfigured: True
+[2022-08-06 21:24:30Z INFO ConfigurationManager] Is configured: True
+[2022-08-06 21:24:30Z INFO Runner] Set runner startup type - Service
+[2022-08-06 21:24:30Z INFO CommandSettings] Flag 'once': 'False'
+[2022-08-06 21:24:30Z INFO CommandSettings] Flag 'once': 'False'
+[2022-08-06 21:24:30Z INFO Runner] RunAsync
+[2022-08-06 21:24:30Z INFO ConfigurationManager] LoadSettings
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsConfigured()
+[2022-08-06 21:24:30Z INFO ConfigurationStore] IsConfigured: True
+[2022-08-06 21:24:30Z INFO ConfigurationManager] Is configured: True
+[2022-08-06 21:24:30Z INFO ConfigurationManager] Settings Loaded
+[2022-08-06 21:24:30Z INFO MessageListener] {
+  "AgentId": 6,
+  "AgentName": "docker",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelines.actions.githubusercontent.com/AGEY5UrMtvtb6e96wqWBe7779R8HaAuPbYojzfgzaqjGlsqYXm",
+  "GitHubUrl": "https://github.com/alia-khalifa/testActions",
+  "WorkFolder": "_work"
+}
+[2022-08-06 21:24:30Z INFO MessageListener] Loading Credentials
+[2022-08-06 21:24:30Z INFO ConfigurationStore] HasCredentials()
+[2022-08-06 21:24:30Z INFO ConfigurationStore] stored True
+[2022-08-06 21:24:30Z INFO CredentialManager] GetCredentialProvider
+[2022-08-06 21:24:30Z INFO CredentialManager] Creating type OAuth
+[2022-08-06 21:24:30Z INFO CredentialManager] Creating credential type: OAuth
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Bin': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\bin'
+[2022-08-06 21:24:30Z INFO HostContext] Well known directory 'Root': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker'
+[2022-08-06 21:24:30Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams'
+[2022-08-06 21:24:30Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams
+[2022-08-06 21:24:30Z INFO MessageListener] Attempt to create session.
+[2022-08-06 21:24:30Z INFO MessageListener] Connecting to the Runner Server...
+[2022-08-06 21:24:30Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-08-06 21:24:30Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-06 21:24:31Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-06 21:24:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-06 21:24:31Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-06 21:24:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-06 21:24:32Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-06 21:24:32Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-06 21:24:32Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-06 21:24:32Z INFO MessageListener] VssConnection created
+[2022-08-06 21:24:32Z INFO Terminal] WRITE LINE: 
+[2022-08-06 21:24:32Z INFO Terminal] WRITE LINE: 
+[2022-08-06 21:24:32Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 391d4942-7ff4-4ebf-853f-48a5a1a40dde
+ActivityId: 1722dc86-4644-4fb5-9a28-2d9df4e70a50
+X-TFS-Session: 10f2c6e5-e47d-4207-960b-84527e8a625b
+X-VSS-E2EID: 244c321e-d8b6-4afa-8f0d-c6d7a1c330df
+X-VSS-SenderDeploymentId: 7101e053-bd8e-689b-be8c-ce908c7f0053
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 81534B57EFCC443EB4CE50946EAD2419 Ref B: CAI30EDGE0107 Ref C: 2022-08-06T21:24:33Z
+Date: Sat, 06 Aug 2022 21:24:33 GMT
+
+[2022-08-06 21:24:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams
+[2022-08-06 21:24:32Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams
+[2022-08-06 21:24:33Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-08-06 21:24:33Z INFO MessageListener] Session created.
+[2022-08-06 21:24:33Z INFO Terminal] WRITE LINE: Current runner version: '2.294.0'
+[2022-08-06 21:24:33Z INFO Terminal] WRITE LINE: 2022-08-06 21:24:33Z: Listening for Jobs
+[2022-08-06 21:24:33Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2022-08-06 21:54:43Z INFO MessageListener] No message retrieved from session '925e0011-d47c-4446-9501-1460f510b585' within last 30 minutes.
+[2022-08-06 22:19:51Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 391d4942-7ff4-4ebf-853f-48a5a1a40dde
+ActivityId: 1725d766-4644-4fb5-9a28-2d9df4e70a50
+X-TFS-Session: 10f2c6e5-e47d-4207-960b-84527e8a625b
+X-VSS-E2EID: be99f7ca-6569-42b1-912f-4b8146640c4a
+X-VSS-SenderDeploymentId: 7101e053-bd8e-689b-be8c-ce908c7f0053
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 2E1EC135FFFF456B805059E23922CD07 Ref B: CAI30EDGE0107 Ref C: 2022-08-06T22:19:52Z
+Date: Sat, 06 Aug 2022 22:19:52 GMT
+
+[2022-08-06 22:19:51Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams
+[2022-08-06 22:19:52Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-08-07 09:55:14Z WARN GitHubActionsService] Attempt 1 of GET request to https://pipelines.actions.githubusercontent.com/AGEY5UrMtvtb6e96wqWBe7779R8HaAuPbYojzfgzaqjGlsqYXm/_apis/distributedtask/pools/1/messages?sessionId=925e0011-d47c-4446-9501-1460f510b585 failed (Socket Error: ConnectionAborted). The operation will be retried in 11.165 seconds.
+[2022-08-07 09:55:41Z WARN GitHubActionsService] Attempt 2 of GET request to https://pipelines.actions.githubusercontent.com/AGEY5UrMtvtb6e96wqWBe7779R8HaAuPbYojzfgzaqjGlsqYXm/_apis/distributedtask/pools/1/messages?sessionId=925e0011-d47c-4446-9501-1460f510b585 failed (Socket Error: ConnectionReset). The operation will be retried in 12.448 seconds.
+[2022-08-07 09:56:05Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: acaee8f3-df6e-4b09-ab29-cc61c0f86f92
+ActivityId: ddf737f9-6c98-4f0c-a4e4-61a7e47f613e
+X-TFS-Session: 10f2c6e5-e47d-4207-960b-84527e8a625b
+X-VSS-E2EID: 958480a8-382f-41bd-8a34-3df51cc13925
+X-VSS-SenderDeploymentId: 7101e053-bd8e-689b-be8c-ce908c7f0053
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 945D672ADA9C4B4DA3A9827BC1E168F7 Ref B: CAI30EDGE0109 Ref C: 2022-08-07T09:56:00Z
+Date: Sun, 07 Aug 2022 09:56:00 GMT
+
+[2022-08-07 09:56:05Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams
+[2022-08-07 09:56:06Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-08-07 09:56:54Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/AGEY5UrMtvtb6e96wqWBe7779R8HaAuPbYojzfgzaqjGlsqYXm/_apis/distributedtask/pools/1/messages?sessionId=925e0011-d47c-4446-9501-1460f510b585 timed out after 60 seconds.
+[2022-08-07 09:56:54Z ERR  MessageListener] Catch exception during get next message.
+[2022-08-07 09:56:54Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2022-08-07 09:56:54Z ERR  MessageListener] #####################################################
+[2022-08-07 09:56:54Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-08-07 09:56:54Z ERR  MessageListener] #####################################################
+[2022-08-07 09:56:54Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-08-07 09:56:54Z ERR  MessageListener] #####################################################
+[2022-08-07 09:56:54Z ERR  MessageListener] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2022-08-07 09:56:54Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2022-08-07 09:56:54Z ERR  Terminal] WRITE ERROR: 2022-08-07 09:56:54Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2022-08-07 09:56:54Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2022-08-07 09:56:54Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-07 09:56:54Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-07 09:57:05Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-07 09:57:05Z INFO MessageListener] Sleeping for 25.893 seconds before retrying.
+[2022-08-07 09:57:31Z INFO MessageListener] No message retrieved from session '925e0011-d47c-4446-9501-1460f510b585' within last 30 minutes.
+[2022-08-07 09:58:31Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/AGEY5UrMtvtb6e96wqWBe7779R8HaAuPbYojzfgzaqjGlsqYXm/_apis/distributedtask/pools/1/messages?sessionId=925e0011-d47c-4446-9501-1460f510b585 timed out after 60 seconds.
+[2022-08-07 09:58:31Z ERR  MessageListener] Catch exception during get next message.
+[2022-08-07 09:58:31Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2022-08-07 09:58:31Z ERR  MessageListener] #####################################################
+[2022-08-07 09:58:31Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-08-07 09:58:31Z ERR  MessageListener] #####################################################
+[2022-08-07 09:58:31Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.<CheckUsabilityOnScavenge>g__ReadAheadWithZeroByteReadAsync|44_0()
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-08-07 09:58:31Z ERR  MessageListener] #####################################################
+[2022-08-07 09:58:31Z ERR  MessageListener] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2022-08-07 09:58:31Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2022-08-07 09:58:31Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2022-08-07 09:58:31Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-07 09:58:31Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-07 09:58:32Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-07 09:58:32Z INFO MessageListener] Sleeping for 28.273 seconds before retrying.
+[2022-08-07 09:59:51Z INFO Terminal] WRITE LINE: 2022-08-07 09:59:51Z: Runner reconnected.
+[2022-08-07 10:20:14Z WARN GitHubActionsService] GET request to https://pipelines.actions.githubusercontent.com/AGEY5UrMtvtb6e96wqWBe7779R8HaAuPbYojzfgzaqjGlsqYXm/_apis/distributedtask/pools/1/messages?sessionId=925e0011-d47c-4446-9501-1460f510b585 timed out after 60 seconds.
+[2022-08-07 10:20:14Z ERR  MessageListener] Catch exception during get next message.
+[2022-08-07 10:20:14Z ERR  MessageListener] System.TimeoutException: The HTTP request timed out after 00:01:00.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.GetNextMessageAsync(CancellationToken token)
+[2022-08-07 10:20:14Z ERR  MessageListener] #####################################################
+[2022-08-07 10:20:14Z ERR  MessageListener] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.DecompressionHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+[2022-08-07 10:20:14Z ERR  MessageListener] #####################################################
+[2022-08-07 10:20:14Z ERR  MessageListener] System.IO.IOException: Unable to read data from the transport connection: The I/O operation has been aborted because of either a thread exit or an application request..
+ ---> System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](TIOAdapter adapter, Memory`1 buffer)
+   at System.Net.Http.HttpConnection.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2022-08-07 10:20:14Z ERR  MessageListener] #####################################################
+[2022-08-07 10:20:14Z ERR  MessageListener] System.Net.Sockets.SocketException (995): The I/O operation has been aborted because of either a thread exit or an application request.
+[2022-08-07 10:20:14Z INFO MessageListener] Retriable exception: The HTTP request timed out after 00:01:00.
+[2022-08-07 10:20:14Z ERR  Terminal] WRITE ERROR: 2022-08-07 10:20:14Z: Runner connect error: The HTTP request timed out after 00:01:00.. Retrying until reconnected.
+[2022-08-07 10:20:14Z INFO RunnerServer] Refresh MessageQueue VssConnection to get on a different AFD node.
+[2022-08-07 10:20:14Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-08-07 10:20:14Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-08-07 10:20:14Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-08-07 10:20:14Z INFO MessageListener] Sleeping for 18.857 seconds before retrying.
+[2022-08-07 10:21:24Z INFO Terminal] WRITE LINE: 2022-08-07 10:21:24Z: Runner reconnected.
+[2022-08-07 10:28:06Z INFO MessageListener] No message retrieved from session '925e0011-d47c-4446-9501-1460f510b585' within last 30 minutes.
+[2022-08-07 10:51:35Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 9d4f69ba-e0c0-4d35-9ad1-37b37ca3397f
+ActivityId: 56d61505-9fa3-4e55-bd5d-ae3f7a706272
+X-TFS-Session: 10f2c6e5-e47d-4207-960b-84527e8a625b
+X-VSS-E2EID: 2fa01daf-7829-4bd2-8c98-9204afa68271
+X-VSS-SenderDeploymentId: 7101e053-bd8e-689b-be8c-ce908c7f0053
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: B2EB9E90CE5D43DC83D2C0E1FF0041AC Ref B: CAI30EDGE0115 Ref C: 2022-08-07T10:51:35Z
+Date: Sun, 07 Aug 2022 10:51:34 GMT
+
+[2022-08-07 10:51:35Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams
+[2022-08-07 10:51:36Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-08-07 10:58:19Z INFO MessageListener] No message retrieved from session '925e0011-d47c-4446-9501-1460f510b585' within last 30 minutes.
+[2022-08-07 11:28:29Z INFO MessageListener] No message retrieved from session '925e0011-d47c-4446-9501-1460f510b585' within last 30 minutes.
+[2022-08-07 11:46:56Z WARN GitHubActionsService] Authentication failed with status code 401.
+Transfer-Encoding: chunked
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: acaee8f3-df6e-4b09-ab29-cc61c0f86f92
+ActivityId: ddeb08e1-6c98-4f0c-a4e4-61a7e47f613e
+X-TFS-Session: 10f2c6e5-e47d-4207-960b-84527e8a625b
+X-VSS-E2EID: 188f4543-a7ec-4c7a-a512-376dca6f04b9
+X-VSS-SenderDeploymentId: 7101e053-bd8e-689b-be8c-ce908c7f0053
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 329805E3B34C4445B697235D89CBC6BB Ref B: CAI30EDGE0115 Ref C: 2022-08-07T11:46:56Z
+Date: Sun, 07 Aug 2022 11:46:56 GMT
+
+[2022-08-07 11:46:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Alia\Trufla\github & gitlab\githubActions\example-app\github-docker\github-docker\.credentials_rsaparams
+[2022-08-07 11:46:57Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
