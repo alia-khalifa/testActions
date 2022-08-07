@@ -44,7 +44,7 @@ jobs:
     # if: github.ref == 'refs/heads/master'
     needs: build-react
     # Note no container is specified, this job will run in the shell
-    runs-on: [self-hosted, deploy]
+    runs-on: ubuntu-latest
     env:
       PORT: 8081
     steps:
