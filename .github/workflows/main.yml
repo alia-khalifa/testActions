@@ -15,10 +15,10 @@ jobs:
   # Second, run Prettier
   # Also name the step (will be shown in GitHub's UI; optional)
     - name: Run Prettier
-    run: |
-     cd example-app
-     npm install
-     npx prettier --check .
+      run: |
+      cd example-app
+      npm install
+      npx prettier --check .
   build-react:
     needs: test-react
     runs-on: [self-hosted, docker]
@@ -56,6 +56,6 @@ jobs:
         with:
           name: react-build
       - name: Redeploy
-          run:|
-            tar -xvf example-app.tar.gz
-            docker-compose -p github up --force-recreate -d
+        run: |
+          tar -xvf example-app.tar.gz
+          docker-compose -p github up --force-recreate -d
