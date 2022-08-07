@@ -2,10 +2,7 @@
 name: CICD
 # Run this workflow on pushes to master and pull requests into master
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+  push
 jobs:
   test-react:
   # Run this job only on runners with both of these labels
