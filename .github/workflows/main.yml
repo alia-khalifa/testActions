@@ -20,7 +20,7 @@ jobs:
         npm install
   build-react:
     needs: test-react
-    runs-on: [self-hosted, deploy]
+    runs-on: [self-hosted, linux,deploy]
     container: node:14
   # Specify environment variables for this job only
     env:
